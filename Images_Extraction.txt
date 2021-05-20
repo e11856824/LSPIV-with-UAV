@@ -1,0 +1,9 @@
+11/12/2019 10:18:30
+Filename: 2019_12_10_11_19_13.mp4
+Extracted from: 0 s to 12.2084 s; Total: 12.2084 s
+Resolution: 1280:720
+step: 1 frame(s)
+time step: 41.5251 ms
+total extracted frames: 289
+Grayscale: No
+Lens Correction: No
