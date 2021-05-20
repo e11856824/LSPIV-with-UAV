@@ -1,0 +1,9 @@
+21/10/2019 11:24:06
+Filename: DJI_0003.MOV
+Extracted from: 4 s to 5 s; Total: 1 s
+Resolution: 1920:1080
+step: 1 frame(s)
+time step: 41.7083 ms
+total extracted frames: 24
+Grayscale: No
+Lens Correction: No
